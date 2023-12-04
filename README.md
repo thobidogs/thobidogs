@@ -43,6 +43,8 @@ Fuelled by passion, I thrive on the pulse of coding, transforming complexities i
 ## 📬 Let's Connect!
 
 - 📧 Email: [20thoby@gmail.com](mailto:20thoby@gmail.com)
-- 🔗 LinkedIn: [Thoby Jim Ralleta](https://www.linkedin.com/in/thoby-jim-ralleta-5797282a2) 
+- 🔗 LinkedIn: [Thoby Jim Ralleta](https://www.linkedin.com/in/thoby-jim-ralleta-5797282a2)
+- 📷 Instagram: [@Thobydogs](https://www.instagram.com/thobydogs/?hl=en)
+- Behance: [Portfolio](https://20thoby9ccb.myportfolio.com/)
 
 Embark with me on this exhilarating coding journey! 🌟🚀
