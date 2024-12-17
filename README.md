@@ -97,7 +97,7 @@ Hello! As a tech enthusiast that I am, here I do my best to achieve the realest 
 <div>
  
   <img src="https://github-readme-stats.vercel.app/api?username=thobidogs&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=en&hide_border=true&order=1" height="100" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thobidogs&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=true&order=2" height="80" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thobidogs&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=true&order=2" height="90" alt="languages graph"  />
    <img height="100" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=PiaMacalanda&count_private=true&theme=graywhite&border_radius=10&hide_border=true&order=3" alt="streak stats"/>
 </div>
 
