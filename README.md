@@ -111,8 +111,9 @@ Hello! As a tech enthusiast that I am, here I do my best to achieve the realest 
 <h2> 🫱 Connect with Me: </h2>
   
 - 📧 Email: [20thoby@gmail.com](mailto:20thoby@gmail.com)
-- 👍 Facebook: [Thoby Ralleta](https://web.facebook.com/thoby.ralleta)
 - 🔗 LinkedIn: [Thoby Jim Ralleta](https://www.linkedin.com/in/thoby-jim-ralleta-5797282a2)
-- 📸 Instagram: [@Thobydogs](https://www.instagram.com/thobydogs/)
 - 📱 Behance: [Thoby Ralleta](https://www.behance.net/thobyralleta)
+- 👍 Facebook: [Thoby Ralleta](https://web.facebook.com/thoby.ralleta)
+- 📸 Instagram: [@Thobydogs](https://www.instagram.com/thobydogs/)
+
 
