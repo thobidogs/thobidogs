@@ -102,8 +102,6 @@ Hello! As a tech enthusiast that I am, here I do my best to achieve the realest 
 
 ###
 
-###
-
 <br>
 
 <h3> 🫱 Connect with Me: </h3>
