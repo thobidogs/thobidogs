@@ -1,7 +1,7 @@
 
 <h1>Thoby Jim R. Ralleta</h1>
 
-Hello! A tech enthusiast that I am, here I do my best to achieve the realest of my visions. Through passion and dedication to learn, I will someday become THAT person I want to be. 👾✨
+Hello! As a tech enthusiast that I am, here I do my best to achieve the realest of my visions. Through passion and dedication to learn, I will someday become THAT person I want to be. 👾✨
 
 <br>
 
