@@ -98,7 +98,7 @@ Hello! As a tech enthusiast that I am, here I do my best to achieve the realest 
    <img height="100" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=PiaMacalanda&count_private=true&theme=graywhite&border_radius=10&hide_border=true&order=3" alt="streak stats"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/thobidogs/thobidogs/output/snake.svg" alt="Snake animation" />
+<img alt="snake" src="https://raw.githubusercontent.com/thobidogs/thobidogs/output/github-contribution-grid-snake.svg" /> 
 
 ###
 
