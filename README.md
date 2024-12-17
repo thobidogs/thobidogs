@@ -104,7 +104,7 @@ Hello! As a tech enthusiast that I am, here I do my best to achieve the realest 
 
 <br>
 
-<h3> 🫱 Connect with Me: </h3>
+<h2> 🫱 Connect with Me: </h2>
   
 - 📧 Email: [20thoby@gmail.com](mailto:20thoby@gmail.com)
 - 👍 Facebook: [Thoby Ralleta](https://web.facebook.com/thoby.ralleta)
