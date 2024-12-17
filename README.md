@@ -80,8 +80,11 @@ Hello! As a tech enthusiast that I am, here I do my best to achieve the realest 
 
 ###
 
-#### Other Tools:
+#### More:
 - IBM DB2 Cloud
+- Pentaho BI
+- Power BI
+- Talend Studio
 - Lucidchart
 - Jaspersoft Studio
 
