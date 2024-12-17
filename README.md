@@ -1,11 +1,11 @@
 
-<h1>Thoby Jim R. Ralleta </h1>
+<h1>Thoby Jim R. Ralleta</h1>
 
-Hello! Venturing into the exhilarating realms of technology, I am Thoby Jim R. Ralleta—a dynamic coder fueled by an unquenchable thirst for unraveling intricate challenges and sculpting ingenious solutions. Currently immersed in the thrilling pursuit of a BS in Computer Science at New Era University. 🚀✨
+Hello! A tech enthusiast that I am, here I do my best to achieve the realest of my visions. Through passion and dedication to learn, I will someday become THAT person I want to be. 👾✨
 
 <br>
 
-<h2> How Studies Go So Far: </h3>
+<h2> 🎒 How Studies Go So Far: </h3>
 
 
 | Level   |      School      |  Year |
@@ -16,7 +16,7 @@ Hello! Venturing into the exhilarating realms of technology, I am Thoby Jim R. R
 
 <br>
 
-<h2> Credentials Not Confidential: </h3>
+<h2> 📜 Credentials Not Confidential: </h3>
 
 - Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate - [Badge](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CADD03CD685A7E5A36286281B1C3A623736C72577520750BB968EDFC56F28727&fbclid=IwAR2Q4l45c-zox1LipUBOR0D_BzndRfDYPU--7J4dFGUrA-ghwYBS_krY5TQ)
 - Oracle Cloud Data Management 2023 Certified Foundations Associate - [Badge](https://catalog-education.oracle.com/pls/certview/sharebadge?id=BACEF1F0CCE42D50627EA5F2810C5B3CA219CC34BBD645DDC6EA44E8FD8FFD7C&fbclid=IwAR00SLu-F6Tv9AYwmjf5HoKh0fFS90XydvJ13tkqv-ooI67E7QIIbunAwAw)
@@ -26,7 +26,7 @@ Hello! Venturing into the exhilarating realms of technology, I am Thoby Jim R. R
 
 <br>
 
-<h2> What're Up in My Sleeves: </h3>
+<h2> 📇 What're Up in My Sleeves: </h3>
 
 ###
 
@@ -87,7 +87,7 @@ Hello! Venturing into the exhilarating realms of technology, I am Thoby Jim R. R
 
 <br>
 
-<h2>Some Stats or Lots:</h3>
+<h2> 💯 Some Stats or Lots:</h3>
 
 ###
 
@@ -100,7 +100,7 @@ Hello! Venturing into the exhilarating realms of technology, I am Thoby Jim R. R
 
 <br>
 
-<h3> Connect with Me: </h3>
+<h3> 🫱 Connect with Me: </h3>
   
 - 📧 Email: [20thoby@gmail.com](mailto:20thoby@gmail.com)
 - 👍 Facebook: [Thoby Ralleta](https://web.facebook.com/thoby.ralleta)
